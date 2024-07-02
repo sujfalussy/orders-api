@@ -1,0 +1,59 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-001",
+      "total_amount": 540.00,
+      "manufacturer": "Nespresso",
+      "order_date": "2024-05-01",
+      "order_status": "completed",
+      "payment_method": "credit card",
+      "product_category": "coffee beans",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "currency": "GBP"
+    },
+    {
+      "order_id": "ORD-002",
+      "total_amount": 1230.45,
+      "manufacturer": "De'Longhi",
+      "order_date": "2024-05-03",
+      "order_status": "completed",
+      "payment_method": "bank transfer",
+      "product_category": "coffee machines",
+      "imageUrl": "https://c8.alamy.com/comp/ADAPFJ/groceries-in-shopping-basket-ADAPFJ.jpg",
+      "currency": "GBP"
+    },
+    {
+      "order_id": "ORD-003",
+      "total_amount": 1999.99,
+      "manufacturer": "Miele",
+      "order_date": "2024-05-05",
+      "order_status": "pending",
+      "payment_method": "credit card",
+      "product_category": "coffee beans",
+      "imageUrl": "https://o.aolcdn.com/hss/storage/midas/ff4ee253c5de4a2a7d28c71c08ddbad9/203721134/computer+store.png",
+      "currency": "GBP"
+    },
+    {
+      "order_id": "ORD-004",
+      "total_amount": 750.00,
+      "manufacturer": "Keurig",
+      "order_date": "2024-05-07",
+      "order_status": "completed",
+      "payment_method": "cash",
+      "product_category": "espresso machines",
+      "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+      "currency": "GBP"
+    },
+    {
+      "order_id": "ORD-005",
+      "total_amount": 120.99,
+      "manufacturer": "Breville",
+      "order_date": "2024-05-09",
+      "order_status": "completed",
+      "payment_method": "credit card",
+      "product_category": "coffee grinders",
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+      "currency": "GBP"
+    }
+  ]
+}
