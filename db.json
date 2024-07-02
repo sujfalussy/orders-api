@@ -8,6 +8,7 @@
       "order_status": "completed",
       "payment_method": "credit card",
       "product_category": "coffee beans",
+      "product_name": "Nespresso Ristretto Capsules",
       "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
       "currency": "GBP"
     },
@@ -19,6 +20,7 @@
       "order_status": "completed",
       "payment_method": "bank transfer",
       "product_category": "coffee machines",
+      "product_name": "De'Longhi Magnifica S",
       "imageUrl": "https://c8.alamy.com/comp/ADAPFJ/groceries-in-shopping-basket-ADAPFJ.jpg",
       "currency": "GBP"
     },
@@ -30,6 +32,7 @@
       "order_status": "pending",
       "payment_method": "credit card",
       "product_category": "coffee beans",
+      "product_name": "Miele Black Edition N°1",
       "imageUrl": "https://o.aolcdn.com/hss/storage/midas/ff4ee253c5de4a2a7d28c71c08ddbad9/203721134/computer+store.png",
       "currency": "GBP"
     },
@@ -40,7 +43,8 @@
       "order_date": "2024-05-07",
       "order_status": "completed",
       "payment_method": "cash",
-      "product_category": "espresso machines",
+      "product_category": "coffee machines",
+      "product_name": "Keurig K-Elite",
       "imageUrl": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
       "currency": "GBP"
     },
@@ -52,6 +56,7 @@
       "order_status": "completed",
       "payment_method": "credit card",
       "product_category": "coffee grinders",
+      "product_name": "Breville Smart Grinder Pro",
       "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
       "currency": "GBP"
     }
